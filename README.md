@@ -64,6 +64,7 @@ Cada botón se conecta entre el pin GPIO indicado y el pin **GND** común del ES
 Si deseas generar la aplicación independiente para usarla sin abrir la consola de comandos 
 python -m PyInstaller --noconsole --onefile --collect-all customtkinter streamdeck_app.py
 El ejecutable listo para usar se generará dentro de la carpeta dist/
+![Vista previa de la App](StreamDeck10Botones.png)
 
 ### 5. 🎬Configuración en OBS Studio
 1. Abre el panel de control de la app Python y asigna funciones Tecla F13 a Tecla F20 a los botones deseados

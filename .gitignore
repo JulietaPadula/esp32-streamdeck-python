@@ -1,0 +1,19 @@
+# Entornos virtuales de Python
+env/
+venv/
+ENV/
+.venv/
+
+# Archivos compilados y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Carpetas generadas por PyInstaller (al crear el .exe)
+build/
+dist/
+*.spec
+
+# Configuraciones de editores de código (VS Code, PyCharm)
+.vscode/
+.idea/
